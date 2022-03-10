@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 </a>&nbsp;&nbsp;
 </a>&nbsp;&nbsp;
 <p align='center'>
-<a href="mailto:sanjjushrivarshini@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="https://linktr.ee/Sanjjushri" target="_blank">
+<img src="https://img.shields.io/badge/-contact%20me-brightgreen">
 </a>&nbsp;&nbsp;
 </a>&nbsp;&nbsp;
 </p>
