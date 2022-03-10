@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Sanjjushri/Sanjjushri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- ### Hi there 👋 -->
+
+<p align='center'>
+<a href ="https://linktr.ee/Sanjjushri">
+<img src="https://i.gifer.com/origin/3c/3c12ee969eb18e66969488ad47a44156.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+</a>
+<p align='center'>
+<a href="mailto:sanjjushrivarshini@gmail.com" target="_blank">
+<img src="https://akm-img-a-in.tosshub.com/businesstoday/images/story/201904/gmail-660_040119014433.jpg?size=1200:675">
+</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp;
