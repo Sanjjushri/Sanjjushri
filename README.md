@@ -23,10 +23,11 @@ Here are some ideas to get you started:
 </a>&nbsp;&nbsp;
 </a>&nbsp;&nbsp;
 <p align='center'>
+<a href="mailto:sanjjushrivarshini@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/-GMAIL-red"></a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp;
 <a href="https://linktr.ee/Sanjjushri" target="_blank">
-<img src="https://img.shields.io/badge/-contact%20me-brightgreen">
-</a>&nbsp;&nbsp;
-</a>&nbsp;&nbsp;
-</p>
+<img src="https://img.shields.io/badge/-ABOUT%20ME-green">
 </p>
 
