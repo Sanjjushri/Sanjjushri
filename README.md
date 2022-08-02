@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align='center'>
 <a href ="https://linktr.ee/Sanjjushri">
-<img src="https://i.gifer.com/origin/3c/3c12ee969eb18e66969488ad47a44156.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<!-- <img src="https://i.gifer.com/origin/3c/3c12ee969eb18e66969488ad47a44156.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p> -->
 </a>
 <p align='center'>
 </a>&nbsp;&nbsp;
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-GMAIL-red"></a>&nbsp;&nbsp;
 </a>&nbsp;&nbsp;
 </a>&nbsp;&nbsp;
-<a href="https://linktr.ee/Sanjjushri" target="_blank">
+<a href="https://sanjjushri.github.io/" target="_blank">
 <img src="https://img.shields.io/badge/-ABOUT%20ME-green">
 </p>
 
